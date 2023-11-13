@@ -1,0 +1,32 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(143, 177, 22);
+}
+.cool-1 {
+  padding: 80px;
+  width: 100%;
+  border: 2px solid #c2fc03;
+}
+.cool-2 {
+  padding: 80px;
+  width: 50%;
+  border: 2px solid #c2fc03;
+}
+
+.cool-3 {
+  padding: 80px;
+  width: 33.3%;
+  border: 2px solid #c2fc03;
+}
+.cool-4 {
+  padding: 80px;
+  width: 25%;
+  border: 2px solid #c2fc03;
+}
+.cool-5 {
+  padding: 80px;
+  width: 20%;
+  border: 2px solid #c2fc03;
+}
+

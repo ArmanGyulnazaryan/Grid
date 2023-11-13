@@ -1,0 +1,19 @@
+@media screen and (max-width: 900px) {
+  .cool-2 {
+    width: 100%;
+  }
+  .cool-3,
+  .cool-4,
+  .cool-5 {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 592px) {
+  .cool-2,
+  .cool-3,
+  .cool-4,
+  .cool-5 {
+    width: 100%;
+  }
+}
